@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**osbulbulaof/osbulbulaof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Student** | 🚀 **Code Learner** | 💡 **Tech Enthusiast**  
 
-Here are some ideas to get you started:
+### 🛠️ Currently Learning  
+- Python 🐍  
+- JavaScript 📜  
+- HTML/CSS 🎨  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Working On  
+Building small projects to level up my coding skills!  
+(Web development | Automation | Fun experiments)  
+
+### 🐾 Fun Facts  
+- I believe in ☕ *coffee power* and 🐈 *cat debuggers*  
+- 10/10 times I'll choose pizza 🍕 over salad  
+- My code works 1% of the time... 100% of the time! 😅  
+
+⭐ *"Keep coding, keep growing!"* 🌟
